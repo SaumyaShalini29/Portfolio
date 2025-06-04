@@ -6,7 +6,9 @@ import Overview from "./Overview";
 import Skills from "./Skills";
 import Project from "./Project";
 import Contact from "./Contact";
-import Thank from "./thank";
+import Thank from "./Thank";
+
+;
 //import Cube from "./Cube";
 //import Cube from "./components/Cube";
 
